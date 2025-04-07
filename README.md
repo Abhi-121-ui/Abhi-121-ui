@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi-121-ui
-- 👀 I’m interested in codding and develop most valuable software for any organisation.
-- 🌱 I’m currently learning dart language with using flutter as a framework.
+- 👀 I’m interested in codding and developing most valuable software for any organisation.
+- 🌱 I’m currently learning dart language where I using flutter as a framework.
 - 💞️ I’m looking to collaborate on Mobile project.
 - 📫 How to reach me as7379078@gmail.com
 
